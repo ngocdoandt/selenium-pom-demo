@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Cucumber TestNG Suite">
+    <listeners>
+        <listener class-name="io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"/>
+    </listeners>
+    <test name="Cucumber Test">
+        <classes>
+            <class name="lazada.WebTestRunner"/>
+        </classes>
+    </test>
+</suite>
+

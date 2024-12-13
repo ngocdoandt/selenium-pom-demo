@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2","setUpClass","Default Suite","Thu Dec 12 19:42:41 GMT+07:00 2024","broken","Thu Dec 12 19:42:41 GMT+07:00 2024","lazada.WebTestRunner","Plume","lazada.WebTestRunner","setUpClass"
+"","8619","Runs Cucumber Scenarios","Cucumber TestNG Suite","Thu Dec 12 19:03:29 GMT+07:00 2024","passed","Thu Dec 12 19:03:38 GMT+07:00 2024","lazada.WebTestRunner","Cucumber Test","lazada.WebTestRunner","runScenario"
+"","11378","User login success with valid email and password","","Thu Dec 12 21:01:47 GMT+07:00 2024","passed","Thu Dec 12 21:01:58 GMT+07:00 2024","","Login","User login success with valid email and password",""
