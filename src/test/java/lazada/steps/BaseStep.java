@@ -14,7 +14,6 @@ public class BaseStep {
 
     public static WebDriver driver;
 
-
     public void setup(){
         driver = new ChromeDriver();
         //driver.get("https://app.phptravels.com/login");
@@ -22,8 +21,6 @@ public class BaseStep {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
     }
 
-
-    @AfterTest
     public void tearDown(){
         driver.quit();
     }

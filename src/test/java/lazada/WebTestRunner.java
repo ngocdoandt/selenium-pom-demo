@@ -14,7 +14,7 @@ import java.time.Duration;
         plugin = {"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"},
         features = {"src/test/java/lazada/features"},
         glue = {"lazada.steps"},
-        tags = "@abc1"
+        tags = "@ngoc"
 )
 
 
